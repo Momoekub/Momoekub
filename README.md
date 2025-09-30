@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Momoe</h1>
-<h3 align="center">A passionate frontend developer from Thailand</h3>
+<h3 align="center">Student of Digital Industry Integration (DII), CAMT, CMU</h3>
+<h3 align="center">A Frontend Developer & Java Enthusiast from Thailand</h3>
 
 <p align="left">
 </p>
